@@ -5,7 +5,7 @@ Mittlerweile sind 3 veschiedene Badminton Scorer Boards entstanden.
 
 Ein kleines Board mit wirklich Basis Funktionen.
 Ein Matrix Board mit Aufschlag Anzeige und gespielte Game Anzeige und eine Minuten Spiel Anzeige pro Game.
-EIn großes Board mit gorßen 7 Segment Anzeigen, Oled Display und 2,4" Display incl Menu Anzeige und Namen Anzeige.
+EIn großes Board mit gorßen 7 Segment Anzeigen, Oled Display und 2,4" TFT Display incl Menu Anzeige und Namen Anzeige.
 
 Uns, im Verein, hat es immer wieder genervt, dass eine Diskussion aufkam, wie viel es denn jetzt steht.
 Da dachte ich mir, ich bau mal was aus den Teilen die ich zu Hause habe und benutze meinen Ender3 V3 KE mal dazu 
