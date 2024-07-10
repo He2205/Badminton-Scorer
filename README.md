@@ -21,6 +21,8 @@ Und verbessern kann man es immer. :-)
 Das große Board hat 7cm große 7 Segment Anzeigen und musste somit mit 12 VDC betrieben werden.
 Somit musste auch das Max7219 etwas modifiziert werden, da es ja maximal nur mit 5V Anzeigen umgehen kann.
 Geholfen hat mir hier die Google suche und es hat auch nach etwas probieren auf dem Steckboard gut funktioniert.
+Den PDF Plan hab ich angehangen.
+
 Es sind 3x 18650 Batterien verbaut, die ca 4h - 6h das Board mit Energie versorgen.
 Eine Status Anzeige der Batterien ist ebenso verbaut sowie eine USB-C Buchse worüber die 18650 direkt aufgeladen werden können.
 
