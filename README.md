@@ -14,7 +14,8 @@ Da dachte ich mir, ich bau mal was aus den Teilen die ich zu Hause habe und benu
 ein funktionelles Board zu erstellen.
 
 Es sollte zwei kleine Buttons haben um die Punkte zu zählen die man im besten Fall am Körper tragen kann ohne das sie stören.
-Es sollte auch die Player anzeigen können und auch die Games.
+Es sollte auch die Player (Namen) anzeigen können und auch die Games.
+Single oder Double Play ist einstellbar.
 So ist nach und nach ein, so wie ich finde, schönes Board entstanden.
 Natürlich ist es ein Prozeß und eigentlich ist man damit nie fertig.
 
