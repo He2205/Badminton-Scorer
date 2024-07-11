@@ -7,7 +7,7 @@ Ein kleines Board mit wirklich Basis Funktionen.
 
 Ein Matrix Board mit Aufschlag Anzeige und gespielte Game Anzeige und eine Minuten Spiel Anzeige pro Game.
 
-EIn großes Board mit gorßen 7 Segment Anzeigen, Oled Display und 2,4" TFT Display incl Menu Anzeige und Namen Anzeige.
+Ein großes Board mit gorßen 7 Segment Anzeigen, Oled Display und 2,4" TFT Display incl Menu Anzeige und Namen Anzeige.
 
 Uns, im Verein, hat es immer wieder genervt, dass eine Diskussion aufkam, wie viel es denn jetzt steht.
 Da dachte ich mir, ich bau mal was aus den Teilen die ich zu Hause habe und benutze meinen Ender3 V3 KE mal dazu 
@@ -20,6 +20,8 @@ Natürlich ist es ein Prozeß und eigentlich ist man damit nie fertig.
 
 Und verbessern kann man es immer. :-)
 
+Befeuert werden alle drei Scorer mit einem ESP8266 NodeMCU.
+
 Das große Board hat 7cm große 7 Segment Anzeigen und musste somit mit 12 VDC betrieben werden.
 Somit musste auch das Max7219 etwas modifiziert werden, da es ja maximal nur mit 5V Anzeigen umgehen kann.
 Geholfen hat mir hier die Google suche und es hat auch nach etwas probieren auf dem Steckboard gut funktioniert.
@@ -30,13 +32,13 @@ Eine Status Anzeige der Batterien ist ebenso verbaut sowie eine USB-C Buchse wor
 
 Man kann hier auch die Spieler mit Namen eintragen und man kann sogar sehen wer den Aufschlag hat und auf welcher Seite
 aufgeschlagen werden muss.
-Auch ein Seitenwechsel ist mit drin.
+Auch ein Seitenwechsel ist mit drin. Und im letzten entscheidungssatz kann man auch einen zusätzlichen Seitenwechsel wählen.
 
 Ausserdem habe ich hier eine IR Fernbedienung integriert um das Menu etwas einfacher zu bedienen.
-Gepunktet wird über selbst gebaute Handsender die über ESPNow / ESP01 mit dem ESP8266 Wemos  im Gerät kommunizieren. Zusätzlich kann man 
+Gepunktet wird über selbst gebaute Handsender die über ESPNow / ESP01 mit dem ESP8266 NodeMCU  im Gerät kommunizieren. Zusätzlich kann man 
 über die Tasten am Gerät selber und über die IR Fernbedienung punkten.
 Auch ein doppelt oder falscher Punktestand lässt sich korrigieren.
-Alles learning by doing und mit viel googlen ist ein, mehr schlecht als recht, guter code entstanden den ich in der Arduino IDE 2 geschrieben habe.
+Alles learning by doing und mit viel googlen ist ein, naja simpler , guter code entstanden den ich in der Arduino IDE 2 geschrieben habe.
 
 
 
