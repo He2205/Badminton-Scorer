@@ -31,9 +31,9 @@ Den PDF Plan hab ich angehangen.
 Es sind 3x 18650 Batterien verbaut, die ca 4h - 6h das Board mit Energie versorgen.
 Eine Status Anzeige der Batterien ist ebenso verbaut sowie eine USB-C Buchse worüber die 18650 direkt aufgeladen werden können.
 
-Man kann hier auch die Spieler mit Namen eintragen und man kann sogar sehen wer den Aufschlag hat und auf welcher Seite
-aufgeschlagen werden muss.
-Auch ein Seitenwechsel ist mit drin. Und im letzten entscheidungssatz kann man auch einen zusätzlichen Seitenwechsel wählen.
+Man kann hier auch die Spieler mit Namen eintragen und eine Aufschlagsanzeige ist mit an Board. 
+Das Spielefeld und von welcher Seite aufgeschlagen wird und welcher Spieler aufschlag hat wird auch dargestellt.
+Auch ein Seitenwechsel ist mit drin. Und im letzten Entscheidungssatz kann man auch einen zusätzlichen Seitenwechsel wählen.
 
 Ausserdem habe ich hier eine IR Fernbedienung integriert um das Menu etwas einfacher zu bedienen.
 Gepunktet wird über selbst gebaute Handsender die über ESPNow / ESP01 mit dem ESP8266 NodeMCU  im Gerät kommunizieren. Zusätzlich kann man 
