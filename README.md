@@ -1,4 +1,4 @@
-# Badminton
+# Badminton_Scorer
 Badminton Scorer Punkteanzeige
 
 Mittlerweile sind 3 veschiedene Badminton Scorer Boards entstanden.
