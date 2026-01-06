@@ -20,6 +20,9 @@ Namen Eingabe der Spieler(bis zu 48) über Webbrowser.
 
 Turnier-Modus mit "Schweizer System", Jeder gegen Jeden und Klassisch bis zu 24 Teilnehmer über den Master. 
 
+Turnierverwaltung im Master. Mit Auswertung der Spiele nach Punkteeingabe der Spiele. Manuell oder nach gespielten Match im Scorer. 
+Sowie Erstellung der KO Runde. 
+
 Punktesystem wählbar. 5, 11, 15, 21 Punkte und bis zu 3 Gewinnsätzen. 
 Oder Schweizer System bis 30 Punkte und 1 Gewinnsätzen. 
 
